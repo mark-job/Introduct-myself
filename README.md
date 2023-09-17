@@ -38,9 +38,20 @@ sina.com
 > + 第三项
 ---
 6.代码
-'''
+```python
 $(document).read(function){
     alert('Markdown');
 });
-'''
+```
+---
+7.链接  
+[see the demo](http://cfpb.github.io/DOCter/)  
+<www.baidu.com>  
+链接也可以用变量来代替，文档末尾附带变量地址：
+这个链接用1作为网址变量[baidu][1]
+这个链接用markdown作为网址变量[Markdown][markdown]
+然后文档的结尾为变量赋值(网址)
+
+[1]: http://www.baidu.com
+[markdown]: http://www.markdown.com
 
