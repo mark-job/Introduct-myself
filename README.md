@@ -59,6 +59,6 @@ $(document).read(function){
 10. 其他公式  
 数学公式:
 $$
-    a+b
+\x
 $$
 
