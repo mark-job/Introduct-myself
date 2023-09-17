@@ -2,11 +2,45 @@
 
 学习 Markdown 语法第一天，***2023/09/17***
 ******
-~~删除线~~
-百度 [^baidu.com]:
+1.标题
+# 一级标题
 
--[ ]选项一
--[ ]选项二
--[ ]选项三
-  
-<iframe src="//player.bilibili.com/player.html?aid=327623069&bvid=BV1JA411h7Gw&cid=171385214&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+## 二级标题
+
+### 三级标题
+
+#### 四级标题
+
+##### 五级标题
+
+###### 六级标题
+---
+2.***粗斜体文字***
+
+___粗斜体文字___
+---
+3.3
+baidu.com
+sina.com
+~~tencent.com~~
+---
+4.2
+1. 第一项：
+    + 第一项嵌套的第一个元素
+    + 第一项嵌套的第二个元素
+---
+5.区块
+> 区块中使用列表
+> 1. 第一项
+> 2. 第二项
+> + 第一项
+> + 第二项
+> + 第三项
+---
+6.代码
+'''
+$(document).read(function){
+    alert('Markdown');
+});
+'''
+
