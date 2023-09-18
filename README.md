@@ -58,7 +58,10 @@ $(document).read(function){
 ***
 10. 其他公式  
 数学公式:
-$$
-\x
-$$
+ $$
+a
+$$  
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
